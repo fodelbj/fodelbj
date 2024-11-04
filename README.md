@@ -1,5 +1,5 @@
 👋 Salut ! Je suis Bejaoui Fedi, un passionné de technologie et d'innovation, avec une spécialisation en réseaux et Internet des objets (IoT). 
-Actuellement en dernière année de licence en Technologie de l'Information et de la Communication, je travaille sur divers projets pour repousser les limites de l'IoT et des systèmes intelligents.
+Actuellement je suis un étudiant en Technologie de l'Information et de la Communication, je travaille sur divers projets pour repousser les limites de l'IoT et des systèmes intelligents.
 ✨ Sur mon GitHub, tu trouveras :
 Des projets autour de l'Arduino et de l'ESP32,
 Des expériences avec des capteurs et systèmes embarqués,
